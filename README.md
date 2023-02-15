@@ -1,5 +1,5 @@
-# object-classification-from-conveyor
-Objects' classification, which are moving on conveyor.
+# Classification system for objects on a conveyor
+Classification system for objects, which are moving on conveyor.
 
 
 It's my first big project, which accumulated my current knowledge in  automation/python/computer vision/image classification received from scratch in the past 2021 in free time from university tasks. It's amateur project, and you can find many issues in code and system, but I continue learning and will improve this project and all my new projects after getting new knowledge. Note, I am not a native English speaker and continue to learn it. 
